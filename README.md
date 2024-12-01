@@ -50,8 +50,3 @@ The script:
 3. Explores sampled versions of continuous-time signals.
 
 ---
-
-## Notes
-1. Exclude the Hebrew PDF document from the Git repository.
-2. Test MATLAB scripts for accuracy before submission.
-3. Include results of impulse responses and frequency responses as figures in the submission.
